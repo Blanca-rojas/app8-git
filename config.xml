@@ -39,6 +39,6 @@
 	<plugin name="cordova-plugin-whitelist" source="npm"/>
 	
 	<!--Colocar icono app -->
-	<icon src="file:///E|/app8/Maps-icon.png"/>
+	<icon src="file:///E|/app8/Maps-icon.png">
 
 </widget>
