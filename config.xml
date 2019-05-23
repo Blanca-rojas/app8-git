@@ -8,7 +8,7 @@ version ="1.0.0">
 <name>app-8-Geolocalizacion</name>
 
 <description>
-Localización con Google y GPS
+Muestra la ubicacion del dispositivo de acuerdo al GPS y en el mapa de google maps
 </description>
 
 <author href="https://build.phonegap.com" email="aidil0308@outlook.com">
@@ -43,6 +43,6 @@ Blanca Lidia Arias Rojas
 
 <!--Colocar icono de la app-->
 
-<icon src="\res\android\mdpi.png"/>
+<icon src="file:///E|/app8/Maps-icon.png"/>
 
 </widget>
